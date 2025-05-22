@@ -16,5 +16,4 @@ A Java-based inventory management application that allows users to add, remove, 
 - **Database**: MySQL (via phpMyAdmin)  
 - **Concepts**: Object-Oriented Programming, Data Structures, Console I/O
 
-## 📁 File Structure
 
